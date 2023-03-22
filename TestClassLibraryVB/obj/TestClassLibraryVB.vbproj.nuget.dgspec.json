@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DemoProject\\TestClassLibraryVB\\TestClassLibraryVB.vbproj": {}
+    "C:\\Users\\saura\\Downloads\\Projects\\TestClassLibraryVB\\TestClassLibraryVB.vbproj": {}
   },
   "projects": {
-    "D:\\DemoProject\\TestClassLibraryVB\\TestClassLibraryVB.vbproj": {
+    "C:\\Users\\saura\\Downloads\\Projects\\TestClassLibraryVB\\TestClassLibraryVB.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DemoProject\\TestClassLibraryVB\\TestClassLibraryVB.vbproj",
+        "projectUniqueName": "C:\\Users\\saura\\Downloads\\Projects\\TestClassLibraryVB\\TestClassLibraryVB.vbproj",
         "projectName": "TestClassLibraryVB",
-        "projectPath": "D:\\DemoProject\\TestClassLibraryVB\\TestClassLibraryVB.vbproj",
+        "projectPath": "C:\\Users\\saura\\Downloads\\Projects\\TestClassLibraryVB\\TestClassLibraryVB.vbproj",
         "packagesPath": "C:\\Users\\saura\\.nuget\\packages\\",
-        "outputPath": "D:\\DemoProject\\TestClassLibraryVB\\obj\\",
+        "outputPath": "C:\\Users\\saura\\Downloads\\Projects\\TestClassLibraryVB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saura\\AppData\\Roaming\\NuGet\\NuGet.Config",
